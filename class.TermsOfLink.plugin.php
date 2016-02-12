@@ -14,6 +14,7 @@ $PluginInfo['TermsOfLink'] = array(
    'Author' => "Kube17",
    'AuthorEmail' => 'loic@kube17.fr',
    'AuthorUrl' => "http://kube17.fr",
+   'License' => "GNU GLP2"
 );
 
 class TermsOfLink extends Gdn_Plugin {

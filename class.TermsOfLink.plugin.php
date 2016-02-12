@@ -12,8 +12,8 @@ $PluginInfo['TermsOfLink'] = array(
    'Description' => "This plugin add Terms of service link at the footer of all pages.",
    'Version' => '1.2',
    'Author' => "Kube17",
-   'AuthorEmail' => 'loic@kube17.fr',
-   'AuthorUrl' => "http://kube17.fr",
+   'AuthorEmail' => 'bobbamac@hotmail.fr',
+   'AuthorUrl' => "http://kube17.tk",
    'License' => "GNU GLP2"
 );
 
